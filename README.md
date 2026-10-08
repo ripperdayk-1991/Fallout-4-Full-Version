@@ -237,4 +237,4 @@ This repository serves as the official landing page for Fallout 4. The software 
 **Get the most recent version of Fallout 4 today!**
 
 ---
-**Last updated:** 2026-10-08 02:29:42 UTC
+**Last updated:** 2026-10-08 09:58:21 UTC
